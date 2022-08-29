@@ -3104,13 +3104,9 @@ s {
     font-size: 18px;
   }
 
-  .popup .popuptext {
-    width: 50%;
-  }
-
   .header .name {
     font-size: 69px;
-    margin-bottom: 7px;
+    margin-top: -15px;
   }
 
 }
